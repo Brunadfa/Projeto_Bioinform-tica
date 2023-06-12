@@ -1,1 +1,3 @@
 # Projeto_Bioinform-tica
+This project plans to compare different ML or DL tools for Arc prediction to evaluate the different parameters such as input, output, performance and other parameters that are equally relevant and compare the results obtained in the tools with the current literature. 
+In order to compare the mentioned ML tools, we start by developing scripts through queries resulting from NCBI to get recently discovered and experimentally validated Acrs. The second step, is to install the tools on the machine (AcRanker, PreArcs, DeepArc). Finally, it is necessary to run these phage genomes in the tools in an automated way and make the respective analyses.
